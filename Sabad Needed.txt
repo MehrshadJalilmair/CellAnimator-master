@@ -1,0 +1,37 @@
+tab bar:
+https://github.com/bardonadam/SlidingTabBar
+https://github.com/Ramotion/adaptive-tab-bar
+https://github.com/Ramotion/animated-tab-bar
+
+Material and Animation:
+https://github.com/CosmicMind/Material
+https://github.com/IBAnimatable/IBAnimatable
+https://github.com/larrynatalicio/15DaysofAnimationsinSwift
+https://github.com/entotsu/TKSubmitTransition
+
+Activity Indicator:
+https://github.com/ninjaprox/NVActivityIndicatorView
+
+Image Slider:
+https://github.com/LinShiwei/ImageSlider
+https://github.com/ioramashvili/BeforeAfterSlider
+https://github.com/Lasithih/LIHImageSlider
+https://github.com/liufengting/FTImageViewer
+
+Modal:
+https://github.com/canalesb93/MantleModal
+https://github.com/dimohamdy/ZFDragableModalTransitionSwift
+https://github.com/kylebshr/ElegantPresentations
+https://github.com/LeoMobileDeveloper/ImageMaskTransition
+
+Gridview:
+https://github.com/DeveloperLx/LxGridView-swift
+
+Dialog/AlertView:
+https://github.com/okmr-d/DOAlertController
+https://github.com/PhilippeBoisney/AlertOnboarding
+https://github.com/zelic91/ZAlertView
+
+
+
+
